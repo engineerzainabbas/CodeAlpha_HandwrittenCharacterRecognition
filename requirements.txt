@@ -1,0 +1,9 @@
+tensorflow>=2.12
+streamlit>=1.28
+numpy
+Pillow
+plotly
+scikit-learn
+matplotlib
+seaborn
+gdown
