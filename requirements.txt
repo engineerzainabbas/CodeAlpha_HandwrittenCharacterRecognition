@@ -1,5 +1,4 @@
-tensorflow-cpu
-streamlit
+tensorflow
 numpy
 Pillow
 plotly
